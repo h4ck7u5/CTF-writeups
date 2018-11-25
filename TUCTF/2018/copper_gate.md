@@ -31,7 +31,7 @@ $ curl http://18.191.227.167/enterthecoppergate/gate.html
 				<p>
 					<b>VFVDVEZ7VzNsYzBtM19UMF9UaDNfMDQ1MTVfVGgzX0MwcHAzcl9LM3l9Cg==</b>
 ```
-````bash
+```bash
 $ echo VFVDVEZ7VzNsYzBtM19UMF9UaDNfMDQ1MTVfVGgzX0MwcHAzcl9LM3l9Cg== | base64 -d
 ```
 

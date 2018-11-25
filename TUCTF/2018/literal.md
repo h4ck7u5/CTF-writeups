@@ -1,3 +1,5 @@
+# literal
+
 page is redirecting to wikipedia, so pull the source with wget
 ```bash
 $ wget http://18.222.124.7
@@ -33,7 +35,7 @@ $ wget http://18.222.124.7/Literal.html
 Connecting to 18.222.124.7:80... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 841 [text/html]
-Saving to: ‘**Literal.html**’
+Saving to: ‘Literal.html’
 
 Literal.html                       100%[================================================================>]     841  --.-KB/s    in 0s
 
