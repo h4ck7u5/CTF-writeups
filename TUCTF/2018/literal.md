@@ -22,7 +22,7 @@ $ cat index.html
 <html>
 
 <head>
-	<meta http-equiv="refresh" content="0; URL='**Literal.html**'" />
+	<meta http-equiv="refresh" content="0; URL='Literal.html'" />
 </head>
 
 </html>
