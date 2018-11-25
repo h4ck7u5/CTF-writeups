@@ -1,3 +1,4 @@
+# bucket o cash
 identify file type first
 ```bash
 file memorydump
