@@ -1,6 +1,6 @@
 ```
 $ foremost -v classified_gift_distribution_schema.img
-```
+
 Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
 Audit File
 
@@ -61,8 +61,8 @@ jpg:= 1
 png:= 35
 
 Foremost finished at Thu Dec 20 21:32:15 2018
-
-append the images to one file
+```
+... append the images to one file
 
 ```
 $ convert +append ./output/png/*.png OUT.png
